@@ -5,9 +5,9 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Little Big Blue
-email: your-email@domain.com
+email: 847334993@qq.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fangning" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
 url: "http://localhost:3000"
